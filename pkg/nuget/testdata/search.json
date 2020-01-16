@@ -1,0 +1,2285 @@
+{
+    "@context": {
+        "@vocab": "http://schema.nuget.org/schema#",
+        "@base": "https://api.nuget.org/v3/registration4/"
+    },
+    "totalHits": 606,
+    "data": [
+        {
+            "@id": "https://api.nuget.org/v3/registration4/xunit/index.json",
+            "@type": "Package",
+            "registration": "https://api.nuget.org/v3/registration4/xunit/index.json",
+            "id": "xunit",
+            "version": "2.4.1",
+            "description": "xUnit.net is a developer testing framework, built to support Test Driven Development, with a design goal of extreme simplicity and alignment with framework features.\n\nInstalling this package installs xunit.core, xunit.assert, and xunit.analyzers.",
+            "summary": "xUnit.net is a developer testing framework, built to support Test Driven Development.",
+            "title": "xUnit.net",
+            "iconUrl": "https://api.nuget.org/v3-flatcontainer/xunit/2.4.1/icon",
+            "licenseUrl": "https://raw.githubusercontent.com/xunit/xunit/master/license.txt",
+            "projectUrl": "https://github.com/xunit/xunit",
+            "tags": [],
+            "authors": [
+                "James Newkirk, Brad Wilson"
+            ],
+            "totalDownloads": 59076614,
+            "verified": true,
+            "packageTypes": [
+                {
+                    "name": "Dependency"
+                }
+            ],
+            "versions": [
+                {
+                    "version": "1.7.0.1540",
+                    "downloads": 57949,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit/1.7.0.1540.json"
+                },
+                {
+                    "version": "1.8.0.1545",
+                    "downloads": 21250,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit/1.8.0.1545.json"
+                },
+                {
+                    "version": "1.8.0.1549",
+                    "downloads": 75318,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit/1.8.0.1549.json"
+                },
+                {
+                    "version": "1.9.0.1566",
+                    "downloads": 279433,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit/1.9.0.1566.json"
+                },
+                {
+                    "version": "1.9.1",
+                    "downloads": 297824,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit/1.9.1.json"
+                },
+                {
+                    "version": "1.9.2",
+                    "downloads": 1461526,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit/1.9.2.json"
+                },
+                {
+                    "version": "2.0.0",
+                    "downloads": 827814,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit/2.0.0.json"
+                },
+                {
+                    "version": "2.1.0",
+                    "downloads": 3503656,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit/2.1.0.json"
+                },
+                {
+                    "version": "2.2.0",
+                    "downloads": 6376544,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit/2.2.0.json"
+                },
+                {
+                    "version": "2.3.0",
+                    "downloads": 713533,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit/2.3.0.json"
+                },
+                {
+                    "version": "2.3.1",
+                    "downloads": 12824219,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit/2.3.1.json"
+                },
+                {
+                    "version": "2.4.0",
+                    "downloads": 9994129,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit/2.4.0.json"
+                },
+                {
+                    "version": "2.4.1",
+                    "downloads": 16141350,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit/2.4.1.json"
+                }
+            ]
+        },
+        {
+            "@id": "https://api.nuget.org/v3/registration4/xunit.analyzers/index.json",
+            "@type": "Package",
+            "registration": "https://api.nuget.org/v3/registration4/xunit.analyzers/index.json",
+            "id": "xunit.analyzers",
+            "version": "0.10.0",
+            "description": "Code Analyzers for projects using xUnit.net that help find and fix frequent issues when writing tests.",
+            "summary": "Code Analyzers for xUnit.net",
+            "title": "xUnit.net [Code Analyzers]",
+            "iconUrl": "https://api.nuget.org/v3-flatcontainer/xunit.analyzers/0.10.0/icon",
+            "licenseUrl": "https://raw.githubusercontent.com/xunit/xunit.analyzers/master/LICENSE",
+            "projectUrl": "https://github.com/xunit/xunit.analyzers",
+            "tags": [
+                "xunit.analyzers",
+                "analyzers",
+                "roslyn",
+                "xunit",
+                "xunit.net"
+            ],
+            "authors": [
+                "Marcin Dobosz"
+            ],
+            "totalDownloads": 40047404,
+            "verified": true,
+            "packageTypes": [
+                {
+                    "name": "Dependency"
+                }
+            ],
+            "versions": [
+                {
+                    "version": "0.1.0",
+                    "downloads": 174072,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.analyzers/0.1.0.json"
+                },
+                {
+                    "version": "0.2.0",
+                    "downloads": 2698,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.analyzers/0.2.0.json"
+                },
+                {
+                    "version": "0.3.0",
+                    "downloads": 228123,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.analyzers/0.3.0.json"
+                },
+                {
+                    "version": "0.4.0",
+                    "downloads": 1658,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.analyzers/0.4.0.json"
+                },
+                {
+                    "version": "0.5.0",
+                    "downloads": 69170,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.analyzers/0.5.0.json"
+                },
+                {
+                    "version": "0.6.0",
+                    "downloads": 155037,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.analyzers/0.6.0.json"
+                },
+                {
+                    "version": "0.6.1",
+                    "downloads": 23570,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.analyzers/0.6.1.json"
+                },
+                {
+                    "version": "0.7.0",
+                    "downloads": 12343485,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.analyzers/0.7.0.json"
+                },
+                {
+                    "version": "0.8.0",
+                    "downloads": 1473812,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.analyzers/0.8.0.json"
+                },
+                {
+                    "version": "0.9.0",
+                    "downloads": 638392,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.analyzers/0.9.0.json"
+                },
+                {
+                    "version": "0.10.0",
+                    "downloads": 24936067,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.analyzers/0.10.0.json"
+                }
+            ]
+        },
+        {
+            "@id": "https://api.nuget.org/v3/registration4/xunit.abstractions/index.json",
+            "@type": "Package",
+            "registration": "https://api.nuget.org/v3/registration4/xunit.abstractions/index.json",
+            "id": "xunit.abstractions",
+            "version": "2.0.3",
+            "description": "Common abstractions used to exchange information between xUnit.net and version-independent runners (xunit.abstractions.dll).",
+            "summary": "Common abstractions used to exchange information between xUnit.net and version-independent runners (xunit.abstractions.dll).",
+            "title": "xUnit.net [Abstractions]",
+            "iconUrl": "https://api.nuget.org/v3-flatcontainer/xunit.abstractions/2.0.3/icon",
+            "licenseUrl": "https://raw.githubusercontent.com/xunit/xunit/master/license.txt",
+            "projectUrl": "https://github.com/xunit/xunit",
+            "tags": [],
+            "authors": [
+                "James Newkirk, Brad Wilson"
+            ],
+            "totalDownloads": 60258365,
+            "verified": true,
+            "packageTypes": [
+                {
+                    "name": "Dependency"
+                }
+            ],
+            "versions": [
+                {
+                    "version": "2.0.0",
+                    "downloads": 5058417,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.abstractions/2.0.0.json"
+                },
+                {
+                    "version": "2.0.1",
+                    "downloads": 22976464,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.abstractions/2.0.1.json"
+                },
+                {
+                    "version": "2.0.2",
+                    "downloads": 10630651,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.abstractions/2.0.2.json"
+                },
+                {
+                    "version": "2.0.3",
+                    "downloads": 17664480,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.abstractions/2.0.3.json"
+                }
+            ]
+        },
+        {
+            "@id": "https://api.nuget.org/v3/registration4/xunit.assert/index.json",
+            "@type": "Package",
+            "registration": "https://api.nuget.org/v3/registration4/xunit.assert/index.json",
+            "id": "xunit.assert",
+            "version": "2.4.1",
+            "description": "Includes the assertion library from xUnit.net (xunit.assert.dll). Supports .NET Standard 1.1.",
+            "summary": "Includes the assertion library from xUnit.net (xunit.assert.dll).",
+            "title": "xUnit.net [Assertion Library]",
+            "iconUrl": "https://api.nuget.org/v3-flatcontainer/xunit.assert/2.4.1/icon",
+            "licenseUrl": "https://raw.githubusercontent.com/xunit/xunit/master/license.txt",
+            "projectUrl": "https://github.com/xunit/xunit",
+            "tags": [],
+            "authors": [
+                "James Newkirk, Brad Wilson"
+            ],
+            "totalDownloads": 58280920,
+            "verified": true,
+            "packageTypes": [
+                {
+                    "name": "Dependency"
+                }
+            ],
+            "versions": [
+                {
+                    "version": "2.0.0",
+                    "downloads": 1029794,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.assert/2.0.0.json"
+                },
+                {
+                    "version": "2.1.0",
+                    "downloads": 3810486,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.assert/2.1.0.json"
+                },
+                {
+                    "version": "2.2.0",
+                    "downloads": 6429065,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.assert/2.2.0.json"
+                },
+                {
+                    "version": "2.3.0",
+                    "downloads": 752838,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.assert/2.3.0.json"
+                },
+                {
+                    "version": "2.3.1",
+                    "downloads": 13093910,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.assert/2.3.1.json"
+                },
+                {
+                    "version": "2.4.0",
+                    "downloads": 10096888,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.assert/2.4.0.json"
+                },
+                {
+                    "version": "2.4.1",
+                    "downloads": 16380477,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.assert/2.4.1.json"
+                }
+            ]
+        },
+        {
+            "@id": "https://api.nuget.org/v3/registration4/xunit.core/index.json",
+            "@type": "Package",
+            "registration": "https://api.nuget.org/v3/registration4/xunit.core/index.json",
+            "id": "xunit.core",
+            "version": "2.4.1",
+            "description": "Includes the libraries for writing unit tests with xUnit.net.",
+            "summary": "Includes the libraries for writing unit tests with xUnit.net.",
+            "title": "xUnit.net [Core Unit Testing Framework]",
+            "iconUrl": "https://api.nuget.org/v3-flatcontainer/xunit.core/2.4.1/icon",
+            "licenseUrl": "https://raw.githubusercontent.com/xunit/xunit/master/license.txt",
+            "projectUrl": "https://github.com/xunit/xunit",
+            "tags": [],
+            "authors": [
+                "James Newkirk, Brad Wilson"
+            ],
+            "totalDownloads": 58705143,
+            "verified": true,
+            "packageTypes": [
+                {
+                    "name": "Dependency"
+                }
+            ],
+            "versions": [
+                {
+                    "version": "2.0.0",
+                    "downloads": 1007400,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.core/2.0.0.json"
+                },
+                {
+                    "version": "2.1.0",
+                    "downloads": 3864462,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.core/2.1.0.json"
+                },
+                {
+                    "version": "2.2.0",
+                    "downloads": 6601596,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.core/2.2.0.json"
+                },
+                {
+                    "version": "2.3.0",
+                    "downloads": 776875,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.core/2.3.0.json"
+                },
+                {
+                    "version": "2.3.1",
+                    "downloads": 13119224,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.core/2.3.1.json"
+                },
+                {
+                    "version": "2.4.0",
+                    "downloads": 10380005,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.core/2.4.0.json"
+                },
+                {
+                    "version": "2.4.1",
+                    "downloads": 16418450,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.core/2.4.1.json"
+                }
+            ]
+        },
+        {
+            "@id": "https://api.nuget.org/v3/registration4/xunit.extensibility.core/index.json",
+            "@type": "Package",
+            "registration": "https://api.nuget.org/v3/registration4/xunit.extensibility.core/index.json",
+            "id": "xunit.extensibility.core",
+            "version": "2.4.1",
+            "description": "Includes xunit.core.dll for extensibility purposes. Supports .NET 4.5.2 or later, and .NET Standard 1.1.",
+            "summary": "Includes xunit.core.dll for extensibility purposes.",
+            "title": "xUnit.net [Extensibility: Core]",
+            "iconUrl": "https://api.nuget.org/v3-flatcontainer/xunit.extensibility.core/2.4.1/icon",
+            "licenseUrl": "https://raw.githubusercontent.com/xunit/xunit/master/license.txt",
+            "projectUrl": "https://github.com/xunit/xunit",
+            "tags": [],
+            "authors": [
+                "James Newkirk, Brad Wilson"
+            ],
+            "totalDownloads": 61431510,
+            "verified": true,
+            "packageTypes": [
+                {
+                    "name": "Dependency"
+                }
+            ],
+            "versions": [
+                {
+                    "version": "2.0.0",
+                    "downloads": 1182389,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.extensibility.core/2.0.0.json"
+                },
+                {
+                    "version": "2.1.0",
+                    "downloads": 3909912,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.extensibility.core/2.1.0.json"
+                },
+                {
+                    "version": "2.2.0",
+                    "downloads": 8150823,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.extensibility.core/2.2.0.json"
+                },
+                {
+                    "version": "2.3.0",
+                    "downloads": 801875,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.extensibility.core/2.3.0.json"
+                },
+                {
+                    "version": "2.3.1",
+                    "downloads": 13240005,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.extensibility.core/2.3.1.json"
+                },
+                {
+                    "version": "2.4.0",
+                    "downloads": 10896706,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.extensibility.core/2.4.0.json"
+                },
+                {
+                    "version": "2.4.1",
+                    "downloads": 16463503,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.extensibility.core/2.4.1.json"
+                }
+            ]
+        },
+        {
+            "@id": "https://api.nuget.org/v3/registration4/xunit.extensibility.execution/index.json",
+            "@type": "Package",
+            "registration": "https://api.nuget.org/v3/registration4/xunit.extensibility.execution/index.json",
+            "id": "xunit.extensibility.execution",
+            "version": "2.4.1",
+            "description": "Includes xunit.execution.*.dll for extensibility purposes. Supports .NET 4.5.2 or later, and .NET Standard 1.1.",
+            "summary": "Includes xunit.execution.*.dll for extensibility purposes.",
+            "title": "xUnit.net [Extensibility: Execution]",
+            "iconUrl": "https://api.nuget.org/v3-flatcontainer/xunit.extensibility.execution/2.4.1/icon",
+            "licenseUrl": "https://raw.githubusercontent.com/xunit/xunit/master/license.txt",
+            "projectUrl": "https://github.com/xunit/xunit",
+            "tags": [],
+            "authors": [
+                "James Newkirk, Brad Wilson"
+            ],
+            "totalDownloads": 58592341,
+            "verified": true,
+            "packageTypes": [
+                {
+                    "name": "Dependency"
+                }
+            ],
+            "versions": [
+                {
+                    "version": "2.0.0",
+                    "downloads": 91498,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.extensibility.execution/2.0.0.json"
+                },
+                {
+                    "version": "2.1.0",
+                    "downloads": 3828181,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.extensibility.execution/2.1.0.json"
+                },
+                {
+                    "version": "2.2.0",
+                    "downloads": 7012823,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.extensibility.execution/2.2.0.json"
+                },
+                {
+                    "version": "2.3.0",
+                    "downloads": 795399,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.extensibility.execution/2.3.0.json"
+                },
+                {
+                    "version": "2.3.1",
+                    "downloads": 13158907,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.extensibility.execution/2.3.1.json"
+                },
+                {
+                    "version": "2.4.0",
+                    "downloads": 10809617,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.extensibility.execution/2.4.0.json"
+                },
+                {
+                    "version": "2.4.1",
+                    "downloads": 16438930,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.extensibility.execution/2.4.1.json"
+                }
+            ]
+        },
+        {
+            "@id": "https://api.nuget.org/v3/registration4/xunit.runner.visualstudio/index.json",
+            "@type": "Package",
+            "registration": "https://api.nuget.org/v3/registration4/xunit.runner.visualstudio/index.json",
+            "id": "xunit.runner.visualstudio",
+            "version": "2.4.1",
+            "description": "Visual Studio 2012+ Test Explorer runner for the xUnit.net framework. Capable of running xUnit.net v1.9.2 and v2.0+ tests. Supports .NET 2.0 or later, .NET Core 1.0 or later, and Universal Windows 10.0 or later.",
+            "summary": "",
+            "title": "xUnit.net [Runner: Visual Studio]",
+            "iconUrl": "https://api.nuget.org/v3-flatcontainer/xunit.runner.visualstudio/2.4.1/icon",
+            "licenseUrl": "https://raw.githubusercontent.com/xunit/xunit/master/license.txt",
+            "projectUrl": "https://github.com/xunit/xunit",
+            "tags": [],
+            "authors": [
+                "James Newkirk, Brad Wilson"
+            ],
+            "totalDownloads": 50017739,
+            "verified": true,
+            "packageTypes": [
+                {
+                    "name": "Dependency"
+                }
+            ],
+            "versions": [
+                {
+                    "version": "2.0.0",
+                    "downloads": 362433,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.visualstudio/2.0.0.json"
+                },
+                {
+                    "version": "2.0.1",
+                    "downloads": 441219,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.visualstudio/2.0.1.json"
+                },
+                {
+                    "version": "2.1.0",
+                    "downloads": 3020432,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.visualstudio/2.1.0.json"
+                },
+                {
+                    "version": "2.2.0",
+                    "downloads": 5237489,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.visualstudio/2.2.0.json"
+                },
+                {
+                    "version": "2.3.0",
+                    "downloads": 637517,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.visualstudio/2.3.0.json"
+                },
+                {
+                    "version": "2.3.1",
+                    "downloads": 12144088,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.visualstudio/2.3.1.json"
+                },
+                {
+                    "version": "2.4.0",
+                    "downloads": 10039903,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.visualstudio/2.4.0.json"
+                },
+                {
+                    "version": "2.4.1",
+                    "downloads": 15362876,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.visualstudio/2.4.1.json"
+                }
+            ]
+        },
+        {
+            "@id": "https://api.nuget.org/v3/registration4/xunit.runner.console/index.json",
+            "@type": "Package",
+            "registration": "https://api.nuget.org/v3/registration4/xunit.runner.console/index.json",
+            "id": "xunit.runner.console",
+            "version": "2.4.1",
+            "description": "Console runner for the xUnit.net framework. Capable of running xUnit.net v1.9.2 and v2.0+ tests. Supports .NET 4.5.2 or later, .NET Core 1.x, and .NET Core 2.x.",
+            "summary": "Console runner for the xUnit.net framework.",
+            "title": "xUnit.net [Runner: Console]",
+            "iconUrl": "https://api.nuget.org/v3-flatcontainer/xunit.runner.console/2.4.1/icon",
+            "licenseUrl": "https://raw.githubusercontent.com/xunit/xunit/master/license.txt",
+            "projectUrl": "https://github.com/xunit/xunit",
+            "tags": [],
+            "authors": [
+                "James Newkirk, Brad Wilson"
+            ],
+            "totalDownloads": 12340029,
+            "verified": true,
+            "packageTypes": [
+                {
+                    "name": "Dependency"
+                }
+            ],
+            "versions": [
+                {
+                    "version": "2.0.0",
+                    "downloads": 297132,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.console/2.0.0.json"
+                },
+                {
+                    "version": "2.1.0",
+                    "downloads": 1295576,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.console/2.1.0.json"
+                },
+                {
+                    "version": "2.2.0",
+                    "downloads": 1071614,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.console/2.2.0.json"
+                },
+                {
+                    "version": "2.3.0",
+                    "downloads": 318984,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.console/2.3.0.json"
+                },
+                {
+                    "version": "2.3.1",
+                    "downloads": 2170912,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.console/2.3.1.json"
+                },
+                {
+                    "version": "2.4.0",
+                    "downloads": 897033,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.console/2.4.0.json"
+                },
+                {
+                    "version": "2.4.1",
+                    "downloads": 4329684,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.console/2.4.1.json"
+                }
+            ]
+        },
+        {
+            "@id": "https://api.nuget.org/v3/registration4/dotnet-xunit/index.json",
+            "@type": "Package",
+            "registration": "https://api.nuget.org/v3/registration4/dotnet-xunit/index.json",
+            "id": "dotnet-xunit",
+            "version": "2.3.1",
+            "description": ".NET CLI SDK runner for the xUnit.net framework. Supports .NET 4.5.2 or later, .NET Core 1.x, and .NET Core 2.x.",
+            "summary": ".NET CLI SDK runner for the xUnit.net framework.",
+            "title": "xUnit.net [Runner: .NET CLI SDK]",
+            "iconUrl": "https://api.nuget.org/v3-flatcontainer/dotnet-xunit/2.3.1/icon",
+            "licenseUrl": "https://raw.githubusercontent.com/xunit/xunit/master/license.txt",
+            "projectUrl": "https://github.com/xunit/xunit",
+            "tags": [],
+            "authors": [
+                "James Newkirk, Brad Wilson"
+            ],
+            "totalDownloads": 9798252,
+            "verified": false,
+            "packageTypes": [
+                {
+                    "name": "DotnetCliTool"
+                }
+            ],
+            "versions": [
+                {
+                    "version": "2.3.0",
+                    "downloads": 196181,
+                    "@id": "https://api.nuget.org/v3/registration4/dotnet-xunit/2.3.0.json"
+                },
+                {
+                    "version": "2.3.1",
+                    "downloads": 8568497,
+                    "@id": "https://api.nuget.org/v3/registration4/dotnet-xunit/2.3.1.json"
+                }
+            ]
+        },
+        {
+            "@id": "https://api.nuget.org/v3/registration4/xunit.runner.utility/index.json",
+            "@type": "Package",
+            "registration": "https://api.nuget.org/v3/registration4/xunit.runner.utility/index.json",
+            "id": "xunit.runner.utility",
+            "version": "2.4.1",
+            "description": "Includes the version-independent runner for xUnit.net to run both v1.9.2 and v2.0+ tests (xunit.runner.utility.*.dll). Supports .NET 3.5, .NET 4.5.2 or later, .NET Standard 1.1, .NET Standard 1.5, UWP, and .NET Core 1.0 or later.",
+            "summary": "Includes the version-independent runner for xUnit.net (xunit.runner.utility.*.dll).",
+            "title": "xUnit.net [Runner Utility]",
+            "iconUrl": "https://api.nuget.org/v3-flatcontainer/xunit.runner.utility/2.4.1/icon",
+            "licenseUrl": "https://raw.githubusercontent.com/xunit/xunit/master/license.txt",
+            "projectUrl": "https://github.com/xunit/xunit",
+            "tags": [],
+            "authors": [
+                "James Newkirk, Brad Wilson"
+            ],
+            "totalDownloads": 6367247,
+            "verified": true,
+            "packageTypes": [
+                {
+                    "name": "Dependency"
+                }
+            ],
+            "versions": [
+                {
+                    "version": "2.0.0",
+                    "downloads": 22469,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.utility/2.0.0.json"
+                },
+                {
+                    "version": "2.1.0",
+                    "downloads": 1103103,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.utility/2.1.0.json"
+                },
+                {
+                    "version": "2.2.0",
+                    "downloads": 131786,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.utility/2.2.0.json"
+                },
+                {
+                    "version": "2.3.0",
+                    "downloads": 25301,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.utility/2.3.0.json"
+                },
+                {
+                    "version": "2.3.1",
+                    "downloads": 196528,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.utility/2.3.1.json"
+                },
+                {
+                    "version": "2.4.0",
+                    "downloads": 214094,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.utility/2.4.0.json"
+                },
+                {
+                    "version": "2.4.1",
+                    "downloads": 560735,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.utility/2.4.1.json"
+                }
+            ]
+        },
+        {
+            "@id": "https://api.nuget.org/v3/registration4/specflow.xunit/index.json",
+            "@type": "Package",
+            "registration": "https://api.nuget.org/v3/registration4/specflow.xunit/index.json",
+            "id": "SpecFlow.xUnit",
+            "version": "3.1.74",
+            "description": "Package to use SpecFlow with xUnit 2.4 and later",
+            "summary": "Package to use SpecFlow with xUnit 2.4 and later",
+            "title": "SpecFlow.xUnit",
+            "iconUrl": "https://api.nuget.org/v3-flatcontainer/specflow.xunit/3.1.74/icon",
+            "licenseUrl": "https://www.nuget.org/packages/SpecFlow.xUnit/3.1.74/license",
+            "projectUrl": "http://www.specflow.org/",
+            "tags": [
+                "specflow",
+                "xUnit"
+            ],
+            "authors": [
+                "TechTalk"
+            ],
+            "totalDownloads": 910956,
+            "verified": true,
+            "packageTypes": [
+                {
+                    "name": "Dependency"
+                }
+            ],
+            "versions": [
+                {
+                    "version": "1.0.1",
+                    "downloads": 868,
+                    "@id": "https://api.nuget.org/v3/registration4/specflow.xunit/1.0.1.json"
+                },
+                {
+                    "version": "1.0.2",
+                    "downloads": 63564,
+                    "@id": "https://api.nuget.org/v3/registration4/specflow.xunit/1.0.2.json"
+                },
+                {
+                    "version": "2.0.0",
+                    "downloads": 21302,
+                    "@id": "https://api.nuget.org/v3/registration4/specflow.xunit/2.0.0.json"
+                },
+                {
+                    "version": "2.1.0",
+                    "downloads": 96966,
+                    "@id": "https://api.nuget.org/v3/registration4/specflow.xunit/2.1.0.json"
+                },
+                {
+                    "version": "2.2.0",
+                    "downloads": 26108,
+                    "@id": "https://api.nuget.org/v3/registration4/specflow.xunit/2.2.0.json"
+                },
+                {
+                    "version": "2.2.1",
+                    "downloads": 59536,
+                    "@id": "https://api.nuget.org/v3/registration4/specflow.xunit/2.2.1.json"
+                },
+                {
+                    "version": "2.3.0",
+                    "downloads": 6851,
+                    "@id": "https://api.nuget.org/v3/registration4/specflow.xunit/2.3.0.json"
+                },
+                {
+                    "version": "2.3.1",
+                    "downloads": 91955,
+                    "@id": "https://api.nuget.org/v3/registration4/specflow.xunit/2.3.1.json"
+                },
+                {
+                    "version": "2.3.2",
+                    "downloads": 53141,
+                    "@id": "https://api.nuget.org/v3/registration4/specflow.xunit/2.3.2.json"
+                },
+                {
+                    "version": "2.4.0",
+                    "downloads": 63312,
+                    "@id": "https://api.nuget.org/v3/registration4/specflow.xunit/2.4.0.json"
+                },
+                {
+                    "version": "2.4.1",
+                    "downloads": 27028,
+                    "@id": "https://api.nuget.org/v3/registration4/specflow.xunit/2.4.1.json"
+                },
+                {
+                    "version": "3.0.188",
+                    "downloads": 13908,
+                    "@id": "https://api.nuget.org/v3/registration4/specflow.xunit/3.0.188.json"
+                },
+                {
+                    "version": "3.0.191",
+                    "downloads": 10001,
+                    "@id": "https://api.nuget.org/v3/registration4/specflow.xunit/3.0.191.json"
+                },
+                {
+                    "version": "3.0.199",
+                    "downloads": 36685,
+                    "@id": "https://api.nuget.org/v3/registration4/specflow.xunit/3.0.199.json"
+                },
+                {
+                    "version": "3.0.213",
+                    "downloads": 59997,
+                    "@id": "https://api.nuget.org/v3/registration4/specflow.xunit/3.0.213.json"
+                },
+                {
+                    "version": "3.0.220",
+                    "downloads": 33979,
+                    "@id": "https://api.nuget.org/v3/registration4/specflow.xunit/3.0.220.json"
+                },
+                {
+                    "version": "3.0.224",
+                    "downloads": 763,
+                    "@id": "https://api.nuget.org/v3/registration4/specflow.xunit/3.0.224.json"
+                },
+                {
+                    "version": "3.0.225",
+                    "downloads": 134203,
+                    "@id": "https://api.nuget.org/v3/registration4/specflow.xunit/3.0.225.json"
+                },
+                {
+                    "version": "3.1.62",
+                    "downloads": 10500,
+                    "@id": "https://api.nuget.org/v3/registration4/specflow.xunit/3.1.62.json"
+                },
+                {
+                    "version": "3.1.67",
+                    "downloads": 11994,
+                    "@id": "https://api.nuget.org/v3/registration4/specflow.xunit/3.1.67.json"
+                },
+                {
+                    "version": "3.1.74",
+                    "downloads": 1989,
+                    "@id": "https://api.nuget.org/v3/registration4/specflow.xunit/3.1.74.json"
+                }
+            ]
+        },
+        {
+            "@id": "https://api.nuget.org/v3/registration4/xunit.runner.reporters/index.json",
+            "@type": "Package",
+            "registration": "https://api.nuget.org/v3/registration4/xunit.runner.reporters/index.json",
+            "id": "xunit.runner.reporters",
+            "version": "2.4.1",
+            "description": "Includes runner reporters for TeamCity, AppVeyor, Verbose and Quiet output for test runners. Supports .NET 4.5.2 or later, .NET Standard 1.1, .NET Standard 1.5, and .NET Core 1.0 or later.",
+            "summary": "Includes runner reporters: TeamCity, AppVeyor, Verbose and Quiet.",
+            "title": "xUnit.net [Runner Reporters]",
+            "iconUrl": "https://api.nuget.org/v3-flatcontainer/xunit.runner.reporters/2.4.1/icon",
+            "licenseUrl": "https://raw.githubusercontent.com/xunit/xunit/master/license.txt",
+            "projectUrl": "https://github.com/xunit/xunit",
+            "tags": [],
+            "authors": [
+                "James Newkirk, Brad Wilson"
+            ],
+            "totalDownloads": 2157295,
+            "verified": true,
+            "packageTypes": [
+                {
+                    "name": "Dependency"
+                }
+            ],
+            "versions": [
+                {
+                    "version": "2.1.0",
+                    "downloads": 712715,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.reporters/2.1.0.json"
+                },
+                {
+                    "version": "2.2.0",
+                    "downloads": 16762,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.reporters/2.2.0.json"
+                },
+                {
+                    "version": "2.3.0",
+                    "downloads": 6602,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.reporters/2.3.0.json"
+                },
+                {
+                    "version": "2.3.1",
+                    "downloads": 68622,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.reporters/2.3.1.json"
+                },
+                {
+                    "version": "2.4.0",
+                    "downloads": 19137,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.reporters/2.4.0.json"
+                },
+                {
+                    "version": "2.4.1",
+                    "downloads": 118000,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.reporters/2.4.1.json"
+                }
+            ]
+        },
+        {
+            "@id": "https://api.nuget.org/v3/registration4/xunit.runner.msbuild/index.json",
+            "@type": "Package",
+            "registration": "https://api.nuget.org/v3/registration4/xunit.runner.msbuild/index.json",
+            "id": "xunit.runner.msbuild",
+            "version": "2.4.1",
+            "description": "MSBuild runner for the xUnit.net framework. Capable of running xUnit.net v1.9.2 and v2.0+ tests. Supports .NET 4.5.2 or later.",
+            "summary": "MSBuild runner for the xUnit.net framework.",
+            "title": "xUnit.net [Runner: MSBuild]",
+            "iconUrl": "https://api.nuget.org/v3-flatcontainer/xunit.runner.msbuild/2.4.1/icon",
+            "licenseUrl": "https://raw.githubusercontent.com/xunit/xunit/master/license.txt",
+            "projectUrl": "https://github.com/xunit/xunit",
+            "tags": [],
+            "authors": [
+                "James Newkirk, Brad Wilson"
+            ],
+            "totalDownloads": 1440879,
+            "verified": true,
+            "packageTypes": [
+                {
+                    "name": "Dependency"
+                }
+            ],
+            "versions": [
+                {
+                    "version": "2.0.0",
+                    "downloads": 80069,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.msbuild/2.0.0.json"
+                },
+                {
+                    "version": "2.1.0",
+                    "downloads": 276558,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.msbuild/2.1.0.json"
+                },
+                {
+                    "version": "2.2.0",
+                    "downloads": 86355,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.msbuild/2.2.0.json"
+                },
+                {
+                    "version": "2.3.0",
+                    "downloads": 30737,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.msbuild/2.3.0.json"
+                },
+                {
+                    "version": "2.3.1",
+                    "downloads": 139743,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.msbuild/2.3.1.json"
+                },
+                {
+                    "version": "2.4.0",
+                    "downloads": 37977,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.msbuild/2.4.0.json"
+                },
+                {
+                    "version": "2.4.1",
+                    "downloads": 107904,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runner.msbuild/2.4.1.json"
+                }
+            ]
+        },
+        {
+            "@id": "https://api.nuget.org/v3/registration4/xunit.extensions/index.json",
+            "@type": "Package",
+            "registration": "https://api.nuget.org/v3/registration4/xunit.extensions/index.json",
+            "id": "xunit.extensions",
+            "version": "2.0.0",
+            "description": "NOTE: This empty package exists to assist users upgrading from xUnit.net v1.x to v2.x.",
+            "summary": "",
+            "title": "xUnit.net [Extensions]",
+            "iconUrl": "https://api.nuget.org/v3-flatcontainer/xunit.extensions/2.0.0/icon",
+            "licenseUrl": "https://raw.githubusercontent.com/xunit/xunit/master/license.txt",
+            "projectUrl": "https://github.com/xunit/xunit",
+            "tags": [],
+            "authors": [
+                "James Newkirk,  Brad Wilson"
+            ],
+            "totalDownloads": 1341581,
+            "verified": true,
+            "packageTypes": [
+                {
+                    "name": "Dependency"
+                }
+            ],
+            "versions": [
+                {
+                    "version": "1.7.0.1540",
+                    "downloads": 66146,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.extensions/1.7.0.1540.json"
+                },
+                {
+                    "version": "1.8.0.1545",
+                    "downloads": 9288,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.extensions/1.8.0.1545.json"
+                },
+                {
+                    "version": "1.8.0.1549",
+                    "downloads": 205566,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.extensions/1.8.0.1549.json"
+                },
+                {
+                    "version": "1.9.0.1566",
+                    "downloads": 208816,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.extensions/1.9.0.1566.json"
+                },
+                {
+                    "version": "1.9.1",
+                    "downloads": 146910,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.extensions/1.9.1.json"
+                },
+                {
+                    "version": "1.9.2",
+                    "downloads": 598480,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.extensions/1.9.2.json"
+                },
+                {
+                    "version": "2.0.0",
+                    "downloads": 102260,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.extensions/2.0.0.json"
+                }
+            ]
+        },
+        {
+            "@id": "https://api.nuget.org/v3/registration4/fluentassertions/index.json",
+            "@type": "Package",
+            "registration": "https://api.nuget.org/v3/registration4/fluentassertions/index.json",
+            "id": "FluentAssertions",
+            "version": "5.10.0",
+            "description": "A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or\n      BDD-style unit tests. Targets .NET Framework 4.5 and 4.7, as well as .NET Core 2.0, .NET Core 3.0, .NET Core 2.1, .NET Standard 1.3, 1.6, 2.0 and 2.1.\n      Supports the unit test frameworks MSTest, MSTest2, Gallio, NUnit, XUnit, MBUnit, MSpec, and NSpec.",
+            "summary": "",
+            "title": "FluentAssertions",
+            "iconUrl": "https://api.nuget.org/v3-flatcontainer/fluentassertions/5.10.0/icon",
+            "licenseUrl": "https://www.nuget.org/packages/FluentAssertions/5.10.0/license",
+            "projectUrl": "https://www.fluentassertions.com/",
+            "tags": [
+                "MSTest",
+                "MSTest2",
+                "xUnit",
+                "xUnit2",
+                "NUnit",
+                "MSpec",
+                "NSpec",
+                "Gallio",
+                "MbUnit",
+                "TDD",
+                "BDD",
+                "Fluent",
+                "netcore",
+                "netstandard",
+                "uwp"
+            ],
+            "authors": [
+                "Dennis Doomen,Jonas Nyrup"
+            ],
+            "totalDownloads": 36637935,
+            "verified": false,
+            "packageTypes": [
+                {
+                    "name": "Dependency"
+                }
+            ],
+            "versions": [
+                {
+                    "version": "1.3.0.1",
+                    "downloads": 10191,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/1.3.0.1.json"
+                },
+                {
+                    "version": "1.4.0",
+                    "downloads": 4385,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/1.4.0.json"
+                },
+                {
+                    "version": "1.5.0",
+                    "downloads": 7084,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/1.5.0.json"
+                },
+                {
+                    "version": "1.6.0",
+                    "downloads": 8297,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/1.6.0.json"
+                },
+                {
+                    "version": "1.7.0",
+                    "downloads": 8714,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/1.7.0.json"
+                },
+                {
+                    "version": "1.7.1.1",
+                    "downloads": 64360,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/1.7.1.1.json"
+                },
+                {
+                    "version": "2.0.0.1",
+                    "downloads": 94266,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/2.0.0.1.json"
+                },
+                {
+                    "version": "2.0.1",
+                    "downloads": 207450,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/2.0.1.json"
+                },
+                {
+                    "version": "2.1.0",
+                    "downloads": 191522,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/2.1.0.json"
+                },
+                {
+                    "version": "2.2.0",
+                    "downloads": 385767,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/2.2.0.json"
+                },
+                {
+                    "version": "3.0.107",
+                    "downloads": 164740,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/3.0.107.json"
+                },
+                {
+                    "version": "3.1.229",
+                    "downloads": 130280,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/3.1.229.json"
+                },
+                {
+                    "version": "3.2.1",
+                    "downloads": 243333,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/3.2.1.json"
+                },
+                {
+                    "version": "3.2.2",
+                    "downloads": 195892,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/3.2.2.json"
+                },
+                {
+                    "version": "3.3.0",
+                    "downloads": 525194,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/3.3.0.json"
+                },
+                {
+                    "version": "3.4.0",
+                    "downloads": 61291,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/3.4.0.json"
+                },
+                {
+                    "version": "3.4.1",
+                    "downloads": 176218,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/3.4.1.json"
+                },
+                {
+                    "version": "3.5.0",
+                    "downloads": 179249,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/3.5.0.json"
+                },
+                {
+                    "version": "4.0.0",
+                    "downloads": 340658,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.0.0.json"
+                },
+                {
+                    "version": "4.0.1",
+                    "downloads": 222543,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.0.1.json"
+                },
+                {
+                    "version": "4.1.0",
+                    "downloads": 222848,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.1.0.json"
+                },
+                {
+                    "version": "4.1.1",
+                    "downloads": 133465,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.1.1.json"
+                },
+                {
+                    "version": "4.2.0",
+                    "downloads": 112780,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.2.0.json"
+                },
+                {
+                    "version": "4.2.1",
+                    "downloads": 200114,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.2.1.json"
+                },
+                {
+                    "version": "4.2.2",
+                    "downloads": 384199,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.2.2.json"
+                },
+                {
+                    "version": "4.3.0",
+                    "downloads": 47534,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.3.0.json"
+                },
+                {
+                    "version": "4.3.1",
+                    "downloads": 3686,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.3.1.json"
+                },
+                {
+                    "version": "4.3.2",
+                    "downloads": 64595,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.3.2.json"
+                },
+                {
+                    "version": "4.4.0",
+                    "downloads": 103713,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.4.0.json"
+                },
+                {
+                    "version": "4.5.0",
+                    "downloads": 175057,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.5.0.json"
+                },
+                {
+                    "version": "4.6.1",
+                    "downloads": 84723,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.6.1.json"
+                },
+                {
+                    "version": "4.6.2",
+                    "downloads": 41605,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.6.2.json"
+                },
+                {
+                    "version": "4.6.3",
+                    "downloads": 193459,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.6.3.json"
+                },
+                {
+                    "version": "4.7.0",
+                    "downloads": 35147,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.7.0.json"
+                },
+                {
+                    "version": "4.8.0",
+                    "downloads": 44012,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.8.0.json"
+                },
+                {
+                    "version": "4.9.0",
+                    "downloads": 95879,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.9.0.json"
+                },
+                {
+                    "version": "4.9.1",
+                    "downloads": 173751,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.9.1.json"
+                },
+                {
+                    "version": "4.10.0",
+                    "downloads": 18700,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.10.0.json"
+                },
+                {
+                    "version": "4.11.0",
+                    "downloads": 165359,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.11.0.json"
+                },
+                {
+                    "version": "4.12.0",
+                    "downloads": 236264,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.12.0.json"
+                },
+                {
+                    "version": "4.13.0",
+                    "downloads": 277721,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.13.0.json"
+                },
+                {
+                    "version": "4.13.1",
+                    "downloads": 73302,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.13.1.json"
+                },
+                {
+                    "version": "4.14.0",
+                    "downloads": 555118,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.14.0.json"
+                },
+                {
+                    "version": "4.15.0",
+                    "downloads": 170412,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.15.0.json"
+                },
+                {
+                    "version": "4.16.0",
+                    "downloads": 222249,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.16.0.json"
+                },
+                {
+                    "version": "4.17.0",
+                    "downloads": 443177,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.17.0.json"
+                },
+                {
+                    "version": "4.18.0",
+                    "downloads": 1185948,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.18.0.json"
+                },
+                {
+                    "version": "4.19.0",
+                    "downloads": 822199,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.19.0.json"
+                },
+                {
+                    "version": "4.19.2",
+                    "downloads": 2174316,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.19.2.json"
+                },
+                {
+                    "version": "4.19.3",
+                    "downloads": 898741,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.19.3.json"
+                },
+                {
+                    "version": "4.19.4",
+                    "downloads": 3645314,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/4.19.4.json"
+                },
+                {
+                    "version": "5.0.0",
+                    "downloads": 465715,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/5.0.0.json"
+                },
+                {
+                    "version": "5.1.1",
+                    "downloads": 139224,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/5.1.1.json"
+                },
+                {
+                    "version": "5.1.2",
+                    "downloads": 630247,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/5.1.2.json"
+                },
+                {
+                    "version": "5.2.0",
+                    "downloads": 973565,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/5.2.0.json"
+                },
+                {
+                    "version": "5.3.0",
+                    "downloads": 1238560,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/5.3.0.json"
+                },
+                {
+                    "version": "5.3.2",
+                    "downloads": 482072,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/5.3.2.json"
+                },
+                {
+                    "version": "5.4.0",
+                    "downloads": 290278,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/5.4.0.json"
+                },
+                {
+                    "version": "5.4.1",
+                    "downloads": 2596835,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/5.4.1.json"
+                },
+                {
+                    "version": "5.4.2",
+                    "downloads": 1727064,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/5.4.2.json"
+                },
+                {
+                    "version": "5.5.1",
+                    "downloads": 132187,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/5.5.1.json"
+                },
+                {
+                    "version": "5.5.3",
+                    "downloads": 1606734,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/5.5.3.json"
+                },
+                {
+                    "version": "5.6.0",
+                    "downloads": 5063149,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/5.6.0.json"
+                },
+                {
+                    "version": "5.7.0",
+                    "downloads": 1945760,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/5.7.0.json"
+                },
+                {
+                    "version": "5.8.0",
+                    "downloads": 508027,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/5.8.0.json"
+                },
+                {
+                    "version": "5.9.0",
+                    "downloads": 2184022,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/5.9.0.json"
+                },
+                {
+                    "version": "5.10.0",
+                    "downloads": 14014,
+                    "@id": "https://api.nuget.org/v3/registration4/fluentassertions/5.10.0.json"
+                }
+            ]
+        },
+        {
+            "@id": "https://api.nuget.org/v3/registration4/xunit.runners/index.json",
+            "@type": "Package",
+            "registration": "https://api.nuget.org/v3/registration4/xunit.runners/index.json",
+            "id": "xunit.runners",
+            "version": "2.0.0",
+            "description": "NOTE: This empty package exists to assist users upgrading from xUnit.net v1.x to v2.x.",
+            "summary": "",
+            "title": "xUnit.net [Runners]",
+            "iconUrl": "https://api.nuget.org/v3-flatcontainer/xunit.runners/2.0.0/icon",
+            "licenseUrl": "https://raw.githubusercontent.com/xunit/xunit/master/license.txt",
+            "projectUrl": "https://github.com/xunit/xunit",
+            "tags": [],
+            "authors": [
+                "James Newkirk,  Brad Wilson"
+            ],
+            "totalDownloads": 1211566,
+            "verified": true,
+            "packageTypes": [
+                {
+                    "name": "Dependency"
+                }
+            ],
+            "versions": [
+                {
+                    "version": "1.9.0.1566",
+                    "downloads": 11678,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runners/1.9.0.1566.json"
+                },
+                {
+                    "version": "1.9.1",
+                    "downloads": 33506,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runners/1.9.1.json"
+                },
+                {
+                    "version": "1.9.2",
+                    "downloads": 944157,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runners/1.9.2.json"
+                },
+                {
+                    "version": "2.0.0",
+                    "downloads": 144340,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.runners/2.0.0.json"
+                }
+            ]
+        },
+        {
+            "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/index.json",
+            "@type": "Package",
+            "registration": "https://api.nuget.org/v3/registration4/autofixture.xunit2/index.json",
+            "id": "AutoFixture.Xunit2",
+            "version": "4.11.0",
+            "description": "By leveraging the data theory feature of xUnit.net, this extension turns AutoFixture into a declarative framework for writing unit tests. In many ways it becomes a unit testing DSL (Domain Specific Language).",
+            "summary": "",
+            "title": "AutoFixture with xUnit.net v2 data theories",
+            "iconUrl": "https://api.nuget.org/v3-flatcontainer/autofixture.xunit2/4.11.0/icon",
+            "licenseUrl": "https://www.nuget.org/packages/AutoFixture.Xunit2/4.11.0/license",
+            "projectUrl": "https://github.com/AutoFixture/AutoFixture",
+            "tags": [],
+            "authors": [
+                "Mark Seemann, AutoFixture"
+            ],
+            "totalDownloads": 2528968,
+            "verified": true,
+            "packageTypes": [
+                {
+                    "name": "Dependency"
+                }
+            ],
+            "versions": [
+                {
+                    "version": "3.25.0",
+                    "downloads": 1547,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.25.0.json"
+                },
+                {
+                    "version": "3.27.0",
+                    "downloads": 476,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.27.0.json"
+                },
+                {
+                    "version": "3.29.0",
+                    "downloads": 502,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.29.0.json"
+                },
+                {
+                    "version": "3.30.0",
+                    "downloads": 660,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.30.0.json"
+                },
+                {
+                    "version": "3.30.1",
+                    "downloads": 518,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.30.1.json"
+                },
+                {
+                    "version": "3.30.2",
+                    "downloads": 1054,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.30.2.json"
+                },
+                {
+                    "version": "3.30.3",
+                    "downloads": 1001,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.30.3.json"
+                },
+                {
+                    "version": "3.30.4",
+                    "downloads": 8394,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.30.4.json"
+                },
+                {
+                    "version": "3.30.6",
+                    "downloads": 935,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.30.6.json"
+                },
+                {
+                    "version": "3.30.7",
+                    "downloads": 1675,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.30.7.json"
+                },
+                {
+                    "version": "3.30.8",
+                    "downloads": 8402,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.30.8.json"
+                },
+                {
+                    "version": "3.31.0",
+                    "downloads": 7174,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.31.0.json"
+                },
+                {
+                    "version": "3.32.0",
+                    "downloads": 972,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.32.0.json"
+                },
+                {
+                    "version": "3.32.2",
+                    "downloads": 748,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.32.2.json"
+                },
+                {
+                    "version": "3.33.0",
+                    "downloads": 1172,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.33.0.json"
+                },
+                {
+                    "version": "3.34.0",
+                    "downloads": 1420,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.34.0.json"
+                },
+                {
+                    "version": "3.34.1",
+                    "downloads": 511,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.34.1.json"
+                },
+                {
+                    "version": "3.34.2",
+                    "downloads": 4583,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.34.2.json"
+                },
+                {
+                    "version": "3.35.1",
+                    "downloads": 451,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.35.1.json"
+                },
+                {
+                    "version": "3.36.0",
+                    "downloads": 1144,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.36.0.json"
+                },
+                {
+                    "version": "3.36.1",
+                    "downloads": 668,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.36.1.json"
+                },
+                {
+                    "version": "3.36.8",
+                    "downloads": 1575,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.36.8.json"
+                },
+                {
+                    "version": "3.36.9",
+                    "downloads": 9131,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.36.9.json"
+                },
+                {
+                    "version": "3.36.11",
+                    "downloads": 4363,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.36.11.json"
+                },
+                {
+                    "version": "3.36.12",
+                    "downloads": 965,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.36.12.json"
+                },
+                {
+                    "version": "3.37.0",
+                    "downloads": 2424,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.37.0.json"
+                },
+                {
+                    "version": "3.37.1",
+                    "downloads": 2485,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.37.1.json"
+                },
+                {
+                    "version": "3.37.2",
+                    "downloads": 491,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.37.2.json"
+                },
+                {
+                    "version": "3.37.3",
+                    "downloads": 10475,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.37.3.json"
+                },
+                {
+                    "version": "3.38.0",
+                    "downloads": 539,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.38.0.json"
+                },
+                {
+                    "version": "3.38.1",
+                    "downloads": 4138,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.38.1.json"
+                },
+                {
+                    "version": "3.39.0",
+                    "downloads": 1861,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.39.0.json"
+                },
+                {
+                    "version": "3.40.0",
+                    "downloads": 21532,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.40.0.json"
+                },
+                {
+                    "version": "3.41.0",
+                    "downloads": 506,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.41.0.json"
+                },
+                {
+                    "version": "3.41.1",
+                    "downloads": 1939,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.41.1.json"
+                },
+                {
+                    "version": "3.42.0",
+                    "downloads": 2484,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.42.0.json"
+                },
+                {
+                    "version": "3.43.0",
+                    "downloads": 3813,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.43.0.json"
+                },
+                {
+                    "version": "3.43.1",
+                    "downloads": 572,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.43.1.json"
+                },
+                {
+                    "version": "3.43.2",
+                    "downloads": 647,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.43.2.json"
+                },
+                {
+                    "version": "3.43.3",
+                    "downloads": 455,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.43.3.json"
+                },
+                {
+                    "version": "3.43.4",
+                    "downloads": 1772,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.43.4.json"
+                },
+                {
+                    "version": "3.44.0",
+                    "downloads": 2369,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.44.0.json"
+                },
+                {
+                    "version": "3.44.1",
+                    "downloads": 939,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.44.1.json"
+                },
+                {
+                    "version": "3.45.0",
+                    "downloads": 567,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.45.0.json"
+                },
+                {
+                    "version": "3.45.1",
+                    "downloads": 7889,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.45.1.json"
+                },
+                {
+                    "version": "3.45.2",
+                    "downloads": 1900,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.45.2.json"
+                },
+                {
+                    "version": "3.45.3",
+                    "downloads": 846,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.45.3.json"
+                },
+                {
+                    "version": "3.46.0",
+                    "downloads": 2602,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.46.0.json"
+                },
+                {
+                    "version": "3.47.0",
+                    "downloads": 700,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.47.0.json"
+                },
+                {
+                    "version": "3.47.1",
+                    "downloads": 4304,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.47.1.json"
+                },
+                {
+                    "version": "3.47.2",
+                    "downloads": 477,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.47.2.json"
+                },
+                {
+                    "version": "3.47.3",
+                    "downloads": 1055,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.47.3.json"
+                },
+                {
+                    "version": "3.47.4",
+                    "downloads": 6117,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.47.4.json"
+                },
+                {
+                    "version": "3.47.5",
+                    "downloads": 1061,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.47.5.json"
+                },
+                {
+                    "version": "3.47.6",
+                    "downloads": 2357,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.47.6.json"
+                },
+                {
+                    "version": "3.47.7",
+                    "downloads": 433,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.47.7.json"
+                },
+                {
+                    "version": "3.47.8",
+                    "downloads": 7478,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.47.8.json"
+                },
+                {
+                    "version": "3.48.0",
+                    "downloads": 3821,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.48.0.json"
+                },
+                {
+                    "version": "3.49.0",
+                    "downloads": 31541,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.49.0.json"
+                },
+                {
+                    "version": "3.49.1",
+                    "downloads": 2261,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.49.1.json"
+                },
+                {
+                    "version": "3.50.0",
+                    "downloads": 1411,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.50.0.json"
+                },
+                {
+                    "version": "3.50.1",
+                    "downloads": 5601,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.50.1.json"
+                },
+                {
+                    "version": "3.50.2",
+                    "downloads": 297574,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.50.2.json"
+                },
+                {
+                    "version": "3.50.3",
+                    "downloads": 104660,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.50.3.json"
+                },
+                {
+                    "version": "3.50.4",
+                    "downloads": 823,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.50.4.json"
+                },
+                {
+                    "version": "3.50.5",
+                    "downloads": 16209,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.50.5.json"
+                },
+                {
+                    "version": "3.50.6",
+                    "downloads": 25569,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.50.6.json"
+                },
+                {
+                    "version": "3.50.7",
+                    "downloads": 27589,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.50.7.json"
+                },
+                {
+                    "version": "3.51.0",
+                    "downloads": 252466,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/3.51.0.json"
+                },
+                {
+                    "version": "4.0.0",
+                    "downloads": 20097,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/4.0.0.json"
+                },
+                {
+                    "version": "4.0.1",
+                    "downloads": 57903,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/4.0.1.json"
+                },
+                {
+                    "version": "4.1.0",
+                    "downloads": 59712,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/4.1.0.json"
+                },
+                {
+                    "version": "4.2.0",
+                    "downloads": 53464,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/4.2.0.json"
+                },
+                {
+                    "version": "4.2.1",
+                    "downloads": 39260,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/4.2.1.json"
+                },
+                {
+                    "version": "4.3.0",
+                    "downloads": 43880,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/4.3.0.json"
+                },
+                {
+                    "version": "4.4.0",
+                    "downloads": 94816,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/4.4.0.json"
+                },
+                {
+                    "version": "4.5.0",
+                    "downloads": 356440,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/4.5.0.json"
+                },
+                {
+                    "version": "4.5.1",
+                    "downloads": 24015,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/4.5.1.json"
+                },
+                {
+                    "version": "4.6.0",
+                    "downloads": 83511,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/4.6.0.json"
+                },
+                {
+                    "version": "4.7.0",
+                    "downloads": 15214,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/4.7.0.json"
+                },
+                {
+                    "version": "4.8.0",
+                    "downloads": 282305,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/4.8.0.json"
+                },
+                {
+                    "version": "4.9.0",
+                    "downloads": 45052,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/4.9.0.json"
+                },
+                {
+                    "version": "4.10.0",
+                    "downloads": 63391,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/4.10.0.json"
+                },
+                {
+                    "version": "4.11.0",
+                    "downloads": 310113,
+                    "@id": "https://api.nuget.org/v3/registration4/autofixture.xunit2/4.11.0.json"
+                }
+            ]
+        },
+        {
+            "@id": "https://api.nuget.org/v3/registration4/xunit.skippablefact/index.json",
+            "@type": "Package",
+            "registration": "https://api.nuget.org/v3/registration4/xunit.skippablefact/index.json",
+            "id": "Xunit.SkippableFact",
+            "version": "1.3.12",
+            "description": "Make your Xunit test methods self-determine to report a \"skipped\" result. Useful for such cases as \"not supported on this platform\" results or other environmental inputs.",
+            "summary": "",
+            "title": "Dynamic test skipping for Xunit",
+            "licenseUrl": "https://raw.githubusercontent.com/AArnott/Xunit.SkippableFact/c7f20eaa78/LICENSE.txt",
+            "projectUrl": "https://github.com/AArnott/Xunit.SkippableFact",
+            "tags": [
+                "xunit",
+                "testing",
+                "skipping"
+            ],
+            "authors": [
+                "Andrew Arnott"
+            ],
+            "totalDownloads": 845824,
+            "verified": true,
+            "packageTypes": [
+                {
+                    "name": "Dependency"
+                }
+            ],
+            "versions": [
+                {
+                    "version": "1.1.4",
+                    "downloads": 622,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.skippablefact/1.1.4.json"
+                },
+                {
+                    "version": "1.2.1",
+                    "downloads": 365,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.skippablefact/1.2.1.json"
+                },
+                {
+                    "version": "1.2.3",
+                    "downloads": 354,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.skippablefact/1.2.3.json"
+                },
+                {
+                    "version": "1.2.5",
+                    "downloads": 392,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.skippablefact/1.2.5.json"
+                },
+                {
+                    "version": "1.2.6",
+                    "downloads": 401,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.skippablefact/1.2.6.json"
+                },
+                {
+                    "version": "1.2.14",
+                    "downloads": 15934,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.skippablefact/1.2.14.json"
+                },
+                {
+                    "version": "1.3.1",
+                    "downloads": 11021,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.skippablefact/1.3.1.json"
+                },
+                {
+                    "version": "1.3.3",
+                    "downloads": 144319,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.skippablefact/1.3.3.json"
+                },
+                {
+                    "version": "1.3.6",
+                    "downloads": 156834,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.skippablefact/1.3.6.json"
+                },
+                {
+                    "version": "1.3.12",
+                    "downloads": 514489,
+                    "@id": "https://api.nuget.org/v3/registration4/xunit.skippablefact/1.3.12.json"
+                }
+            ]
+        },
+        {
+            "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/index.json",
+            "@type": "Package",
+            "registration": "https://api.nuget.org/v3/registration4/fscheck.xunit/index.json",
+            "id": "FsCheck.Xunit",
+            "version": "2.14.0",
+            "description": "FsCheck.Xunit integrates FsCheck with xUnit.NET by adding a PropertyAttribute that runs FsCheck tests, similar to xUnit.NET's FactAttribute.\n\nAll the options normally available in vanilla FsCheck via configuration can be controlled via the PropertyAttribute.",
+            "summary": "Integrates FsCheck with xUnit.NET",
+            "title": "FsCheck.Xunit",
+            "iconUrl": "https://api.nuget.org/v3-flatcontainer/fscheck.xunit/2.14.0/icon",
+            "licenseUrl": "https://github.com/fsharp/FsCheck/blob/master/License.txt",
+            "projectUrl": "https://github.com/fsharp/FsCheck",
+            "tags": [
+                "test",
+                "testing",
+                "random",
+                "fscheck",
+                "quickcheck",
+                "xunit",
+                "xunit.net"
+            ],
+            "authors": [
+                "Kurt Schelfthout and contributors"
+            ],
+            "totalDownloads": 657141,
+            "verified": false,
+            "packageTypes": [
+                {
+                    "name": "Dependency"
+                }
+            ],
+            "versions": [
+                {
+                    "version": "0.1.0",
+                    "downloads": 735,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/0.1.0.json"
+                },
+                {
+                    "version": "0.2.0",
+                    "downloads": 635,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/0.2.0.json"
+                },
+                {
+                    "version": "0.3.0",
+                    "downloads": 908,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/0.3.0.json"
+                },
+                {
+                    "version": "0.4.0",
+                    "downloads": 583,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/0.4.0.json"
+                },
+                {
+                    "version": "0.4.0.1",
+                    "downloads": 692,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/0.4.0.1.json"
+                },
+                {
+                    "version": "0.4.0.2",
+                    "downloads": 4353,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/0.4.0.2.json"
+                },
+                {
+                    "version": "0.4.1",
+                    "downloads": 22060,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/0.4.1.json"
+                },
+                {
+                    "version": "1.0.0",
+                    "downloads": 1017,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/1.0.0.json"
+                },
+                {
+                    "version": "1.0.1",
+                    "downloads": 575,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/1.0.1.json"
+                },
+                {
+                    "version": "1.0.2",
+                    "downloads": 1045,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/1.0.2.json"
+                },
+                {
+                    "version": "1.0.3",
+                    "downloads": 1650,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/1.0.3.json"
+                },
+                {
+                    "version": "1.0.4",
+                    "downloads": 9279,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/1.0.4.json"
+                },
+                {
+                    "version": "2.0.1",
+                    "downloads": 1284,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.0.1.json"
+                },
+                {
+                    "version": "2.0.2",
+                    "downloads": 418,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.0.2.json"
+                },
+                {
+                    "version": "2.0.3",
+                    "downloads": 652,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.0.3.json"
+                },
+                {
+                    "version": "2.0.4",
+                    "downloads": 790,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.0.4.json"
+                },
+                {
+                    "version": "2.0.5",
+                    "downloads": 1923,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.0.5.json"
+                },
+                {
+                    "version": "2.0.6",
+                    "downloads": 484,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.0.6.json"
+                },
+                {
+                    "version": "2.0.7",
+                    "downloads": 4863,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.0.7.json"
+                },
+                {
+                    "version": "2.1.0",
+                    "downloads": 2253,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.1.0.json"
+                },
+                {
+                    "version": "2.2.0",
+                    "downloads": 5246,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.2.0.json"
+                },
+                {
+                    "version": "2.2.1",
+                    "downloads": 492,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.2.1.json"
+                },
+                {
+                    "version": "2.2.2",
+                    "downloads": 1697,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.2.2.json"
+                },
+                {
+                    "version": "2.2.3",
+                    "downloads": 707,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.2.3.json"
+                },
+                {
+                    "version": "2.2.4",
+                    "downloads": 11564,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.2.4.json"
+                },
+                {
+                    "version": "2.2.5",
+                    "downloads": 2043,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.2.5.json"
+                },
+                {
+                    "version": "2.3.0",
+                    "downloads": 1448,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.3.0.json"
+                },
+                {
+                    "version": "2.4.0",
+                    "downloads": 4551,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.4.0.json"
+                },
+                {
+                    "version": "2.5.0",
+                    "downloads": 23092,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.5.0.json"
+                },
+                {
+                    "version": "2.6.0",
+                    "downloads": 7811,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.6.0.json"
+                },
+                {
+                    "version": "2.6.1",
+                    "downloads": 876,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.6.1.json"
+                },
+                {
+                    "version": "2.6.2",
+                    "downloads": 6234,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.6.2.json"
+                },
+                {
+                    "version": "2.6.3",
+                    "downloads": 1115,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.6.3.json"
+                },
+                {
+                    "version": "2.7.0",
+                    "downloads": 3274,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.7.0.json"
+                },
+                {
+                    "version": "2.7.1",
+                    "downloads": 2526,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.7.1.json"
+                },
+                {
+                    "version": "2.7.2",
+                    "downloads": 3036,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.7.2.json"
+                },
+                {
+                    "version": "2.8.0",
+                    "downloads": 4666,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.8.0.json"
+                },
+                {
+                    "version": "2.8.1",
+                    "downloads": 385,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.8.1.json"
+                },
+                {
+                    "version": "2.8.2",
+                    "downloads": 1722,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.8.2.json"
+                },
+                {
+                    "version": "2.9.0",
+                    "downloads": 37016,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.9.0.json"
+                },
+                {
+                    "version": "2.9.1",
+                    "downloads": 284,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.9.1.json"
+                },
+                {
+                    "version": "2.9.2",
+                    "downloads": 1895,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.9.2.json"
+                },
+                {
+                    "version": "2.10.0",
+                    "downloads": 9934,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.10.0.json"
+                },
+                {
+                    "version": "2.10.1",
+                    "downloads": 433,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.10.1.json"
+                },
+                {
+                    "version": "2.10.2",
+                    "downloads": 8857,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.10.2.json"
+                },
+                {
+                    "version": "2.10.3",
+                    "downloads": 4693,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.10.3.json"
+                },
+                {
+                    "version": "2.10.4",
+                    "downloads": 24150,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.10.4.json"
+                },
+                {
+                    "version": "2.10.5",
+                    "downloads": 6555,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.10.5.json"
+                },
+                {
+                    "version": "2.10.6",
+                    "downloads": 5200,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.10.6.json"
+                },
+                {
+                    "version": "2.10.7",
+                    "downloads": 6738,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.10.7.json"
+                },
+                {
+                    "version": "2.10.8",
+                    "downloads": 60400,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.10.8.json"
+                },
+                {
+                    "version": "2.10.9",
+                    "downloads": 7893,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.10.9.json"
+                },
+                {
+                    "version": "2.10.10",
+                    "downloads": 50981,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.10.10.json"
+                },
+                {
+                    "version": "2.11.0",
+                    "downloads": 43339,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.11.0.json"
+                },
+                {
+                    "version": "2.12.0",
+                    "downloads": 4006,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.12.0.json"
+                },
+                {
+                    "version": "2.12.1",
+                    "downloads": 12908,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.12.1.json"
+                },
+                {
+                    "version": "2.13.0",
+                    "downloads": 100798,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.13.0.json"
+                },
+                {
+                    "version": "2.14.0",
+                    "downloads": 110646,
+                    "@id": "https://api.nuget.org/v3/registration4/fscheck.xunit/2.14.0.json"
+                }
+            ]
+        }
+    ]
+}

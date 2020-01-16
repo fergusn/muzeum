@@ -1,0 +1,50 @@
+storage: 
+  filesystem:
+    rootdirectory: /var/lib/muzeum
+
+certificate:
+  crt: /etc/muzeum/ca.crt
+  key: /etc/muzeum/ca.key
+
+repositories:
+
+- name: nuget
+  host: "localhost:8080"
+  path: /nuget
+  nuget: {}
+
+- name: nuget.org
+  path: /v3
+  host: api.nuget.org
+  nuget: 
+    proxy: https://api.nuget.org/v3/index.json
+
+- name: hub.docker.com
+  host: registry-1.docker.io
+  docker:
+    proxy: https://registry-1.docker.io
+
+- name: quay.io
+  host: quay.io
+  docker:
+    proxy: https://quay.io/v2
+
+- name: k8s.gcr.io
+  host: k8s.gcr.io
+  docker:
+    proxy: https://k8s.gcr.io
+
+- name: archive.ubuntu.com
+  host: archive.ubuntu.com
+  debian:
+    proxy: "http://archive.ubuntu.com/ubuntu"
+
+- name: security.ubuntu.com
+  host: security.ubuntu.com
+  debian:
+    proxy: http://security.ubuntu.com/ubuntu
+
+- name: apt.kubernetes.io
+  host: apt.kubernetes.io
+  debian:
+    proxy: https://apt.kubernetes.io
